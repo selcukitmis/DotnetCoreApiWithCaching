@@ -1,0 +1,11 @@
+/Users/macintosh/github/dotnetCore/webApiWithCaching/webApi/bin/Debug/netcoreapp2.0/webApiWithCaching.deps.json
+/Users/macintosh/github/dotnetCore/webApiWithCaching/webApi/bin/Debug/netcoreapp2.0/webApiWithCaching.runtimeconfig.json
+/Users/macintosh/github/dotnetCore/webApiWithCaching/webApi/bin/Debug/netcoreapp2.0/webApiWithCaching.runtimeconfig.dev.json
+/Users/macintosh/github/dotnetCore/webApiWithCaching/webApi/bin/Debug/netcoreapp2.0/webApiWithCaching.dll
+/Users/macintosh/github/dotnetCore/webApiWithCaching/webApi/bin/Debug/netcoreapp2.0/webApiWithCaching.pdb
+/Users/macintosh/github/dotnetCore/webApiWithCaching/webApi/obj/Debug/netcoreapp2.0/webApiWithCaching.csprojResolveAssemblyReference.cache
+/Users/macintosh/github/dotnetCore/webApiWithCaching/webApi/obj/Debug/netcoreapp2.0/webApiWithCaching.csproj.CoreCompileInputs.cache
+/Users/macintosh/github/dotnetCore/webApiWithCaching/webApi/obj/Debug/netcoreapp2.0/webApiWithCaching.AssemblyInfoInputs.cache
+/Users/macintosh/github/dotnetCore/webApiWithCaching/webApi/obj/Debug/netcoreapp2.0/webApiWithCaching.AssemblyInfo.cs
+/Users/macintosh/github/dotnetCore/webApiWithCaching/webApi/obj/Debug/netcoreapp2.0/webApiWithCaching.dll
+/Users/macintosh/github/dotnetCore/webApiWithCaching/webApi/obj/Debug/netcoreapp2.0/webApiWithCaching.pdb
